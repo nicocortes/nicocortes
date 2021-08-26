@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nico
 #### Fullstack Developer
-![Fullstack Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--2a-_OwgW--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sm5uwpip9yglugcc15h4.png)
+![Fullstack Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/107688670/original/7ce92b3c60643b6e07c3f2a4f37f7fc8446616f6/create-a-full-stack-mobile-responsive-web-app-using-mern.png)
 
 
 
