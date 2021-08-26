@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nico
 #### Fullstack Developer
-![Fullstack Developer](https://wallpapercave.com/wp/wp6582675.jpg)
+![Fullstack Developer](https://www.wallpapertip.com/wmimgs/83-838333_web-developer-wallpaper-hd.jpg)
 
 
 
